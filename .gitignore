@@ -1,0 +1,8 @@
+*.mkv
+*.png
+*.dat
+*.mp4
+.vscode
+__pycache__
+*.pyc
+*.sh
